@@ -1,2 +1,2 @@
 # JS-Projects<br>
-[Visit JS-Projects](https://tusharjoshi-portfolio.netlify.app/)
+[Visit JS-Projects]((https://tushar-js-projects.netlify.app/)/)
